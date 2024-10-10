@@ -1,0 +1,11 @@
+<application>
+  <component name="DimensionService">
+    <location key="find.popup.1800.-271.3440.1440" x="3628" y="131" />
+    <location key="find.popup.0.0.3600.2338@192dpi" x="1116" y="810" />
+    <size key="find.popup.1800.-271.3440.1440" width="1162" height="663" />
+    <size key="find.popup.0.0.3600.2338@192dpi" width="1370" height="808" />
+  </component>
+  <component name="WindowManager">
+    <frame x="0" y="44" width="1800" height="1125" />
+  </component>
+</application>

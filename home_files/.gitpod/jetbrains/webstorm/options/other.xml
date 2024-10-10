@@ -1,0 +1,60 @@
+<application>
+  <component name="BuiltInServerOptions" builtInServerPort="49356" />
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="NotRoamableUiSettings">
+    <option name="ideAAType" value="Greyscale" />
+    <option name="editorAAType" value="Greyscale" />
+    <option name="fontFace" value="Inter" />
+    <option name="fontSize" value="13.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFonts" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2": "0.5381166",
+    "CommitChangeListDialog.SPLITTER_PROPORTION_2": "0.7583333",
+    "GeneralSettings.initiallyConfigured": "true",
+    "InstalledPluginsSearchHistory": "prett",
+    "MarketplacePluginsSearchHistory": "/suggested",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.llm.installer.activate.toolwindow": "true",
+    "RunOnceActivity.webstorm.auto-popup.quick-doc.initialized": "true",
+    "TextEditorWithPreviewLayout": "Editor only",
+    "enter_selection_count": "5",
+    "evlsprt3.242": "5",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "242.23339.15",
+    "file.gist.reindex.count": "3",
+    "file.history.selection.comments.splitter.proportion": "0.4387417",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.new.terminal.promotion.242": "1",
+    "input.method.disabler.muted": "true",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@client_Dark",
+    "registry.to.advanced.settings.migration.build": "WS-242.23339.15",
+    "rider.trace.scenarios": "",
+    "ts.lib.d.ts.version": "5.4.3"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="hibob-web-client-history1" project-path="/workspace/hibob-web-client" last-access-time="1728562321598" />
+      <command-history-file filename="hibob-web-client-history2" project-path="/workspace/hibob-web-client" last-access-time="1728562333109" />
+      <command-history-file filename="hibob-web-client-history" project-path="/workspace/hibob-web-client" last-access-time="1728562330536" />
+    </command-history-files>
+  </component>
+</application>
