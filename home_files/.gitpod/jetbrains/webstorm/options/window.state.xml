@@ -1,11 +1,33 @@
 <application>
   <component name="DimensionService">
-    <location key="find.popup.1800.-271.3440.1440" x="3628" y="131" />
-    <location key="find.popup.0.0.3600.2338@192dpi" x="1116" y="810" />
+    <location key="find.popup.1800.-271.3440.1440" x="3642" y="131" />
+    <location key="find.popup.0.0.3600.2338@192dpi" x="764" y="672" />
     <size key="find.popup.1800.-271.3440.1440" width="1162" height="663" />
-    <size key="find.popup.0.0.3600.2338@192dpi" width="1370" height="808" />
+    <size key="find.popup.0.0.3600.2338@192dpi" width="2074" height="1084" />
+    <size key="GridCell.Tab.0.left.1800.-271.3440.1440" width="-8" height="-63" />
+    <size key="GridCell.Tab.0.center.1800.-271.3440.1440" width="-8" height="-63" />
+    <size key="GridCell.Tab.0.right.1800.-271.3440.1440" width="-8" height="-63" />
+    <size key="GridCell.Tab.0.bottom.1800.-271.3440.1440" width="-8" height="-63" />
+    <size key="GridCell.Tab.1.left.1800.-271.3440.1440" width="-8" height="-63" />
+    <size key="GridCell.Tab.1.center.1800.-271.3440.1440" width="-8" height="-63" />
+    <size key="GridCell.Tab.1.right.1800.-271.3440.1440" width="-8" height="-63" />
+    <size key="GridCell.Tab.1.bottom.1800.-271.3440.1440" width="-8" height="-63" />
+    <size key="GridCell.Tab.0.left.0.0.3600.2338@192dpi" width="3468" height="-6" />
+    <size key="GridCell.Tab.0.center.0.0.3600.2338@192dpi" width="3468" height="-6" />
+    <size key="GridCell.Tab.0.right.0.0.3600.2338@192dpi" width="3468" height="-6" />
+    <size key="GridCell.Tab.0.bottom.0.0.3600.2338@192dpi" width="3468" height="-6" />
+    <size key="GridCell.Tab.1.left.0.0.3600.2338@192dpi" width="3468" height="-6" />
+    <size key="GridCell.Tab.1.center.0.0.3600.2338@192dpi" width="3468" height="-6" />
+    <size key="GridCell.Tab.1.right.0.0.3600.2338@192dpi" width="3468" height="-6" />
+    <size key="GridCell.Tab.1.bottom.0.0.3600.2338@192dpi" width="3468" height="-6" />
   </component>
   <component name="WindowManager">
     <frame x="0" y="44" width="1800" height="1125" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state width="228" height="158" key="nx.dev.console.select_target" timestamp="1729765356065">
+      <screen x="0" y="0" width="1800" height="1169" />
+    </state>
+    <state width="228" height="158" key="nx.dev.console.select_target/0.0.1800.1169/-42.-1080.1920.1080" timestamp="1729765356065" />
   </component>
 </application>

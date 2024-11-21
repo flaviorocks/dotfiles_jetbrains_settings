@@ -1,21 +1,22 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Outside of learning" />
-    <option name="defaultScopeName" value="Outside of learning" />
-    <option name="SEARCH_SCOPE" value="Outside of learning" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.htm</mask>
     <mask>*.sht</mask>
     <mask>*.shtm</mask>
     <mask>*.shtml</mask>
-    <mask>*.html</mask>
     <mask>*.mts</mask>
     <mask>*.ats</mask>
     <mask>*.cts</mask>
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
+    <mask>*.html</mask>
+    <mask>*.scss</mask>
     <mask>*.spec.ts</mask>
   </component>
 </application>

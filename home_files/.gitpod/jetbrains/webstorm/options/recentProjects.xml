@@ -5,16 +5,16 @@
         <entry key="/workspace/hibob-web-client">
           <value>
             <RecentProjectMetaInfo frameTitle="hibob-web-client" opened="true" projectWorkspaceId="2mZRq1cA8jsvpvTHqAEak9ROi21">
-              <option name="activationTimestamp" value="1728567370088" />
+              <option name="activationTimestamp" value="1732193096627" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="WS-242.23339.15" />
-              <option name="buildTimestamp" value="1727263800000" />
+              <option name="build" value="WS-243.21565.180" />
+              <option name="buildTimestamp" value="1731393720000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo customColor="f24f7ae5" />
               </option>
               <frame x="0" y="44" width="1800" height="1125" />
               <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1728562321612" />
+              <option name="projectOpenTimestamp" value="1732188868243" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
